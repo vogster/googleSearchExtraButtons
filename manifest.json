@@ -8,7 +8,7 @@
 	,"https://encrypted.google.*/search*"
 	,"https://encrypted.google.*/*"
 	,"https://spmbt.github.io/googleSearchExtraButtons/saveYourLocalStorage.html"],
-	"js": [ "Google_Search_Extra_Buttons.user.js" ],
+	"js": [ "gogleSearc.user.js" ],
 	"matches": [ "http://*/*", "https://*/*" ],
 	"run_at": "document_idle"
   } ],
